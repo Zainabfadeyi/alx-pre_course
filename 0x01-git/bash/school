@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "updated file school"
+echo 'The school is open!'
